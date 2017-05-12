@@ -1,0 +1,23 @@
+{
+	"surfPics": [
+		{
+			"photo": "images/surf1.jpeg",
+			"caption": "nice barrel, brahdy brah"
+		},
+		{
+
+			"photo": "images/surf2.jpeg",
+			"caption": "Witches Rock shhhyea brah"
+		},
+		{
+
+			"photo": "images/surf3.jpeg",
+			"caption": "surfs up"
+		},
+		{
+
+			"photo": "images/surf4.jpeg",
+			"caption": "nice left"
+		}
+	]
+}

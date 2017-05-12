@@ -1,0 +1,73 @@
+/*HTML  CSS  JS  Result
+EDIT ON
+ .container {
+  max-width: 400px;
+  background-color: black;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+.container div {
+  background-color: white;
+  width: 100%;
+  display: inline-block;
+  display: none;
+}
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  position: absolute;
+}
+
+.next {
+  right: 5px;
+}
+
+.prev {
+  left: 5px;
+}
+
+*/
+
+.wrapper {
+	width: 600px;
+	margin: 0 auto;
+	position: relative;
+}
+
+img {
+	width: 600px;
+	height: 200px;
+}
+.wrapper div {
+	width: 100%;
+	/*display: inline-block;*/
+
+}
+
+.hidden {
+	display: none;
+}
+
+.visible {
+	display: inline-block;
+}
+
+a {
+	padding: 5px 10px;
+	background-color: #f0f0f0;
+	margin-top: 30px;
+	text-decoration: none;
+	color: #666;
+}
+
+a.left {
+	float: left;
+}
+
+a.right {
+	float: right;
+}
